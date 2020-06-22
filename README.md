@@ -17,9 +17,9 @@ File Descriptions:
 There are 3 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Headings and markdown cells were used to assist in walking through the thought process for individual steps.
 
 Results:
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available here: https://medium.com/@kritigarg_66337/airbnbs-boston-market-assessing-the-demand-and-supply-62c92c023fb0.
 
 Licensing, Authors, Acknowledgements:
-Must give credit to Kaggle and Airbnb for the data. You can also access the data here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Kaggle and Airbnb for the data. You can also access the data here: https://www.kaggle.com/airbnb/boston. Otherwise, feel free to use the code here as you would like!
 
 

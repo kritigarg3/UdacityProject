@@ -2,6 +2,9 @@
 Following libraries were installed for creating a Word cloud:
 1.	pip install wordcloud
 2.	pip install pillow
+3. pip install sklearn
+4. pip install pandas
+4. pip install numpy
 
 #### Project Motivation:
 For this project, I was interested in exploring the Airbnb Boston data to better understand:

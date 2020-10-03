@@ -23,7 +23,7 @@ The datasets for this project were provided by Udacity.
 
 ## **Results**
 
-The main findings of the code can be found in the github repository at the link: . The results have also been provided in a blog post on the following link: https://medium.com/@kritigarg_66337/starbucks-offers-3fe97bd429a4
+The main findings of the code can be found in the github repository at the link: https://github.com/kritigarg3/UdacityProject/tree/master/Starbucks%20Capstone%20Project. The results have also been provided in a blog post on the following link: https://medium.com/@kritigarg_66337/starbucks-offers-3fe97bd429a4
 
 ## **Licensing, Authors, Acknowledgements**
 

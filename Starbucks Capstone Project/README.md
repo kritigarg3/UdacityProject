@@ -1,4 +1,4 @@
-## UdacityDisasterManagement
+## UdacityCapstoneProject
 
 
 ## **Installation**
